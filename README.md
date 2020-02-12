@@ -44,3 +44,8 @@ Zadanie spełnia następujące założenia:
  - jeden `Event` na wszystkie  przyciski
  - rodzic jest wyszukany zależnie od położenia `this`
  - kolor jest losowy
+ 
+#
+### -zad.10
+Po kliknięciu w `Guzik` pojawia się nowy element `li`. Element ten posiada informację ile elementów jest w liście 
+w chwili dodania.
