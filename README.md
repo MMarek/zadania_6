@@ -49,3 +49,8 @@ Zadanie spełnia następujące założenia:
 ### -zad.10
 Po kliknięciu w `Guzik` pojawia się nowy element `li`. Element ten posiada informację ile elementów jest w liście 
 w chwili dodania.
+
+#
+### -zad.11
+Tablica z przykładowymi zamówieniami, wraz z formularzem do wypełnienia nowego zamówienia. `Event` pobierający 
+informacje z inputów, oraz wprowadzający nowy wpis do tablicy
