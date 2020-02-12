@@ -40,3 +40,10 @@
     border: black 2px solid;
     margin: 20px;
 }
+
+.element{
+    padding: 50px;
+    border-radius: 5px;
+    border: black 2px solid;
+    margin: 20px;
+}

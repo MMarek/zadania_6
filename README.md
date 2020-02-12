@@ -28,3 +28,8 @@ randomColor = "#" + Math.floor(Math.random()*16777215).toString(16);)
 ### -zad.6
 `Event` wypisujący położenie kursora, w zależności od jego miejsca na obiekcie.
 (tak `globalnie` - od lewego górnego rogu okna, jak i `lokalnie` - od lewego górnego rogu obiektu)
+#
+### -zad.7
+Metody `stopPropagation` oraz `stopImmediatePropagation` użyte w następujący sposób:
+ - wywoływany event dla trzeciego i drugiego elementu, lecz nie dla pierwszego
+ - wywoływane eventy dla elementu piątego i nie dla czwartego. 
