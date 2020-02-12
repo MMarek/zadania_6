@@ -1,4 +1,4 @@
-console.log('EXERCISE 6:');
+console.log('EXERCISE 7:');
 
 document.addEventListener('DOMContentLoaded', function () {
     document.querySelector('#element1').addEventListener('click',function (e){

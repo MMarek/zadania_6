@@ -33,3 +33,6 @@ randomColor = "#" + Math.floor(Math.random()*16777215).toString(16);)
 Metody `stopPropagation` oraz `stopImmediatePropagation` użyte w następujący sposób:
  - wywoływany event dla trzeciego i drugiego elementu, lecz nie dla pierwszego
  - wywoływane eventy dla elementu piątego i nie dla czwartego. 
+#
+### -zad.8
+Dwa elementy pokazujące wielkość okna, nawet po jego przeskalowaniu.
