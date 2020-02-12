@@ -17,3 +17,10 @@ Buttony z podpiętymi `Eventami`, kliknięcie każdego powoduje naliczenie kolej
 #
 ### -zad.4
 `Event` wspólny dla guzików, powodujący zwiększenie się wartości na liczniku o 1
+#
+### -zad.5
+Jeden `Event` dla trzech elementów, zmieniający tła po kliknięciu na `div` 
+Sposób na uzyskanie losowego koloru: 
+```JavaScript
+randomColor = "#" + Math.floor(Math.random()*16777215).toString(16);)
+```
