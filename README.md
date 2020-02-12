@@ -24,3 +24,7 @@ Sposób na uzyskanie losowego koloru:
 ```JavaScript
 randomColor = "#" + Math.floor(Math.random()*16777215).toString(16);)
 ```
+#
+### -zad.6
+`Event` wypisujący położenie kursora, w zależności od jego miejsca na obiekcie.
+(tak `globalnie` - od lewego górnego rogu okna, jak i `lokalnie` - od lewego górnego rogu obiektu)
