@@ -31,3 +31,12 @@
     border: black 2px solid;
     margin: 20px;
 }
+
+.box_big{
+    width: 80%;
+    height: 300px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    border: black 2px solid;
+    margin: 20px;
+}
