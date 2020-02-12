@@ -1,4 +1,4 @@
-// zad
+console.log('EXERCISE 1:');
 
 document.addEventListener('DOMContentLoaded', function () {
     console.log('DOM');
@@ -17,14 +17,4 @@ document.addEventListener('DOMContentLoaded', function () {
             child.style.display = 'none';
         })
     }
-});
-
-
-// 2
-
-const button = document.querySelector('#mainBtn');
-console.log(button);
-
-button.addEventListener('click', function () {
-    console.log("It's Working!");
 });

@@ -1,3 +1,6 @@
+.task01{
+}
+
 .parent {
     width: 200px;
     height:100px;
@@ -9,4 +12,10 @@
     height:100px;
     background-color: pink;
     display: none;
+}
+
+.task02{
+    width: 200px;
+    height: 100px;
+    color: red;
 }
