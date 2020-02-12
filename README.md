@@ -36,3 +36,11 @@ Metody `stopPropagation` oraz `stopImmediatePropagation` użyte w następujący 
 #
 ### -zad.8
 Dwa elementy pokazujące wielkość okna, nawet po jego przeskalowaniu.
+#
+### -zad.9
+Trzy elementy zmieniające kolor tła (rodzica), po kliknięci na `Guzik` (dziecko).
+Kolor uzystkany metodą losową, jak w `zad.5`
+Zadanie spełnia następujące założenia:
+ - jeden `Event` na wszystkie  przyciski
+ - rodzic jest wyszukany zależnie od położenia `this`
+ - kolor jest losowy
