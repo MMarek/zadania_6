@@ -59,3 +59,7 @@ informacje z inputów, oraz wprowadzający nowy wpis do tablicy
 #
 ### -zad.12
 Guzik, który po kliknięciu znika. `Event` który powoduje usunięcie po kliknięciu.
+
+#
+### -zad.13
+`Event` podpięty do guzika, sprawiający usunięcie elementu, po jego kliknięciu.
