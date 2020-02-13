@@ -52,5 +52,5 @@ w chwili dodania.
 
 #
 ### -zad.11
-Tablica z przykładowymi zamówieniami, wraz z formularzem do wypełnienia nowego zamówienia. `Event` pobierający 
+Tablica, wraz z formularzem do wypełnienia nowego zamówienia. `Event` pobierający 
 informacje z inputów, oraz wprowadzający nowy wpis do tablicy
