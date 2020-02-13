@@ -54,7 +54,6 @@ w chwili dodania.
 ### -zad.11
 Tablica, wraz z formularzem do wypełnienia nowego zamówienia. `Event` pobierający 
 informacje z inputów, oraz wprowadzający nowy wpis do tablicy
-- DOKOŃCZ!
 
 #
 ### -zad.12
@@ -71,3 +70,7 @@ Dwie listy z elementami. Po kliknięciu w element, ten przenosi się na przestrz
 #
 ### -zad.15
 `Event` podpięty pod guzik, powodujący usunięcie zawartości z tablicy.
+
+##
+Całość - tym razem już interaktywną, można zobaczyć na: https://mmarek.github.io/zadania_6/index.html
+###Zapraszam :)
