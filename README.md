@@ -63,3 +63,7 @@ Guzik, który po kliknięciu znika. `Event` który powoduje usunięcie po klikni
 #
 ### -zad.13
 `Event` podpięty do guzika, sprawiający usunięcie elementu, po jego kliknięciu.
+
+#
+### -zad.14
+Dwie listy z elementami. Po kliknięciu w element, ten przenosi się na przestrzeń drugiej listy.

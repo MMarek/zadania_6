@@ -103,3 +103,15 @@ td {
 tr:first-child td {
     background: #F1F1F1;
 }
+
+
+
+.listContainer {
+    border-radius: 5px;
+    border: black 2px solid;
+    margin: 20px;
+}
+
+.listContainer li {
+    padding: 2px;
+}
