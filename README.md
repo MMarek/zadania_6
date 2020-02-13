@@ -54,3 +54,8 @@ w chwili dodania.
 ### -zad.11
 Tablica, wraz z formularzem do wypełnienia nowego zamówienia. `Event` pobierający 
 informacje z inputów, oraz wprowadzający nowy wpis do tablicy
+- DOKOŃCZ!
+
+#
+### -zad.12
+Guzik, który po kliknięciu znika. `Event` który powoduje usunięcie po kliknięciu.

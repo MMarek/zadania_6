@@ -1,4 +1,4 @@
-console.log('EXERCISE 10:');
+console.log('EXERCISE 11:');
 
 document.addEventListener('DOMContentLoaded', function () {
 
